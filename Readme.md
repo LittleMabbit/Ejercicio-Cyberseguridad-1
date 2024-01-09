@@ -14,3 +14,10 @@ De acuerdo a los ultimas revisiones de las normativas y politicas de seguridad, 
 66bb9ec43660194bc066bd8b4d35b151  script.py
 
 Revisa si algun archivo fue alterado durante el ultimo ataque y de existir ¿cual seria?
+
+-----------------------
+
+Durante el analisis de los hashes originales proveidos en un principio, encontramos la proxima diferencia.
+	log.txt file>
+		Original Hash> 0b29406e348cd5f17c2fd7b47b1012f9
+			Modified Hash> f2b0428b975452afbc641e46a042231b
